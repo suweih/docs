@@ -1,1 +1,0 @@
-import{_ as a,V as t,W as c,X as e,Y as r}from"./framework-dddb76a9.js";const s={},o=e("h2",{id:"如何创建用户和组织",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#如何创建用户和组织","aria-hidden":"true"},"#"),r(" 如何创建用户和组织？")],-1),n=[o];function _(d,i){return t(),c("div",null,n)}const l=a(s,[["render",_],["__file","page.html.vue"]]);export{l as default};

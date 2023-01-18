@@ -1,0 +1,1 @@
+import{_ as e,W as t,X as n,Y as _}from"./framework-fc8fbcdc.js";const c={},o=_("p",null,"detail ...",-1),s=[o];function a(l,r){return t(),n("div",null,s)}const i=e(c,[["render",a],["__file","index.html.vue"]]);export{i as default};

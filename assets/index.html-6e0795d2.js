@@ -1,1 +1,0 @@
-import{_ as e,W as t,X as n,$ as s}from"./framework-c41a2297.js";const _={},c=s("p",null,"stay tuned",-1),o=[c];function a(r,l){return t(),n("div",null,o)}const i=e(_,[["render",a],["__file","index.html.vue"]]);export{i as default};
